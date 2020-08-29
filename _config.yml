@@ -1,1 +1,11 @@
-theme: jekyll-theme-hacker
+title: David's politics blog
+description: My thoughts and experiences studying conservatism
+# url: [Canonical URL for this blog]
+author:
+  name: David Summerhays
+  email: david@summerhays.net
+#  url: [URL of your website]
+
+paginate: 3
+year: 2020
+show_downloads: false
