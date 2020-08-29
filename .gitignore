@@ -1,4 +1,15 @@
+.jekyll-cache
 _site/
-.sass-cache/
-.jekyll-cache/
+_site
+Gemfile
+Gemfile.lock
+backup
+backup/
+notes
+notes/
+.git
+.git/
+.sass-cache
 .jekyll-metadata
+vendor
+vendor/
