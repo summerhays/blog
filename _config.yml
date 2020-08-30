@@ -9,3 +9,17 @@ author:
 paginate: 3
 year: 2020
 show_downloads: false
+include: '_pages'
+defaults:
+  - scope: 
+      path: "_pages" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+      permalink: "/:basename/"
+  - scope:
+      path: "_posts" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      author: "David"

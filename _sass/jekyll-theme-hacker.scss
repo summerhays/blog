@@ -54,9 +54,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
   padding: 20px 0;
-  margin: 0 0 40px 0;
 }
 
 header h1 {
@@ -76,9 +74,23 @@ header h1 {
   }
 }
 
+nav {
+  @extend header;
+  margin: 0 0 40px 0;
+  border-bottom: 1px dashed $conifer; //header;
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px; 
+    li {
+      display: inline;
+      padding: 10px;
+    }
+  }
+}
 
 header h1:before {
-  content: "—> ";
+  content: ">> ";
   font-size: 24px;
 }
 
@@ -86,6 +98,7 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #666;
+  margin: 0
 }
 
 #downloads .btn {
@@ -114,6 +127,13 @@ h1, h2, h3, h4, h5, h6 {
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
 }
+
+.w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%}
+.w3-border{border:1px solid #ccc}
+.w3-animate-input{width:50%;transition:width 0.4s ease-in-out}
+.w3-animate-input:focus{width:100%}
+.w3-button{border:none;display:inline-block;padding:8px 16px;margin: 0 0 8px 0;vertical-align:middle;overflow:hidden;text-decoration:none;text-align:center;cursor:pointer;white-space:nowrap;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;background-color:$header;color:black;user-select:none;transition:background-color .3s}
+.w3-button:hover{background-color:white}
 
 #main_content h1 {
   font-size: 30px;
@@ -237,6 +257,22 @@ hr {
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
+}
+
+h2.c-hero__title {
+  margin: 0;
+  a {
+    @extend h2;
+    text-decoration: none;
+  }
+}
+
+footer {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-top: 1px dashed $conifer; //header;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
 }
 
 /* Links

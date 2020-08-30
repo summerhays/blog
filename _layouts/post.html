@@ -7,8 +7,10 @@ layout: default
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
+<center><img src="{{ page.thumbnail_image }}"></center>
 {{content}}
 
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% capture tags %}w{{ page.tags }}t{% endcapture %}
+{% if tags != "wt" %}
+  <small>tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></small>
 {% endif %}

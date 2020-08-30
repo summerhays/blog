@@ -1,0 +1,42 @@
+---
+title: My blog
+layout: default
+---
+<h1>Latest posts</h1>
+{% assign firstpost = site.posts.first %}
+<div class="c-hero" style="background: url("{{ firstpost.thumbnail_image }}")bottom center / cover no-repeat;">
+   <h2 class="c-hero__title"><a href="{{ firstpost.url }}">{{ firstpost.title }}</a></h2>
+   <small>{{ firstpost.date | date:"%d %b" }} - {{ firstpost.author }}</small>
+   <center><img src="{{ firstpost.thumbnail_image }}" style="width:50%"></center>
+   {{ firstpost.excerpt }}
+   <a href="{{ firstpost.url }}" class="btn--hero">Read the full post</a>
+</div>
+<div>&nbsp;</div>
+
+           {% for post in site.posts offset:1 %}
+<div class="c-hero" style="background: url("{{ post.thumbnail_image }}")bottom center / cover no-repeat;">
+   <h2 class="c-hero__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+   <small>{{ post.date | date:"%d %b" }} - {{ post.author }}</small>
+   <center><img src="{{ post.thumbnail_image }}" style="width:50%"></center>
+   {{ post.excerpt }}
+   <a href="{{ post.url }}" class="btn--hero">Read the full post</a>
+</div>
+<div>&nbsp;</div>
+           {% endfor %}
+
+<div class="c-pagination">
+   {% if page.previous %}
+   <div>
+       <h3>Previous</h3>
+       <p>{{page.previous.title}}</p>
+       <p><a  class="btn"  href="{{ site.baseurl }}{{page.previous.url}}">Read Post</a></p>
+   </div>
+   {% endif %}
+   {% if page.next %}
+   <div>
+       <h3>Up Next</h3>
+       <p>{{page.next.title}}</p>
+       <p><a  class="btn"  href="{{ site.baseurl }}{{page.next.url}}">Read Post</a></p>
+   </div>
+   {% endif %}
+</div>
