@@ -5,4 +5,4 @@ Riddle me this:
 
 ### What starts with T and ends in rouble?
 
-Don't give me 'trouble.'
+Don't give me 'trouble' (as an answer).
