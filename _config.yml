@@ -11,7 +11,7 @@ author:
 paginate: 3
 year: 2021
 show_downloads: false
-includes: '_pages'
+include: ['_pages']
 defaults:
   - scope: 
       path: "_pages" # an empty string here means all files in the project
