@@ -1,15 +1,17 @@
-title: David's politics blog
+myurl: https://www.summerhays.net
+title: "Summerhays Politics Blog"
+keywords: politics, conservatism, summerhays, blog
+short_title: Summerhays blog
 description: The hazards of studying conservatism
 # url: [Canonical URL for this blog]
 author:
   name: David Summerhays
-  email: david@summerhays.net
 #  url: [URL of your website]
 
 paginate: 3
-year: 2020
+year: 2021
 show_downloads: false
-include: '_pages'
+includes: '_pages'
 defaults:
   - scope: 
       path: "_pages" # an empty string here means all files in the project
@@ -23,3 +25,4 @@ defaults:
     values:
       layout: "post"
       author: "David"
+plugins: [jekyll-paginate]

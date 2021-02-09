@@ -5,7 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/assets/css/style.css">
-
+    <meta name="description" content="{{ site.title}}">
+    <meta name="keywords" content="{{ site.keywords}}">
+    <meta name="author" content="{{ site.title}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#b5e853">
+    <html lang="{{ page.lang | default: 'en' }}">
+    <title>{{ site.title }}</title>
   </head>
 
   <body>
@@ -73,7 +79,7 @@
 {% endif %}
 
 <center>
-<a class="w3-button color-1-dark" href="/" aria-label="posts">&#94; {% if fr %}Retour aux nouvelles{% else %}Back to Updates{% endif %}</a>
+<a class="w3-button color-1-dark" href="/" aria-label="posts">&#94; {% if fr %}Retour à l'accueil{% else %}Return Home{% endif %}</a>
 </center>
   </div>
 </footer>
