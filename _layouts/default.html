@@ -71,9 +71,9 @@
     {% endif %}
     {% if prev and next %}
       <span>&nbsp; | &nbsp;</span>
+    {% endif %}
     {% if prev %}
       <a href="{{ prev.url }}" class="w3-button color-1-dark" title="{{ prev.title }}">{% if fr %}Suivant{% else %}Newer{% endif%} &gt;</a>
-    {% endif %}
     {% endif %}
   </center>
 {% endif %}
