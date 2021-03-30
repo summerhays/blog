@@ -44,7 +44,7 @@
 {% if items_raw %}{% assign items = items_raw | sort: 'year' | reverse %}{% endif %}
 
 {% if items.size > 1 %}
-  {% comment %}
+  {% comment %}&#94;
     Store the index position of the matching items
   {% endcomment %}
   {% for item in items %}
@@ -79,7 +79,7 @@
 {% endif %}
 
 <center>
-<a class="w3-button color-1-dark" href="/" aria-label="posts">&#94; {% if fr %}Retour à l'accueil{% else %}Return Home{% endif %}</a>
+<a class="w3-button color-1-dark" href="/" aria-label="posts"><img src=/assets/images/up-bullet.png width=7px style="position:relative;top:4px"> {% if fr %}Retour à l'accueil{% else %}Return Home{% endif %}</a>
 </center>
   </div>
 </footer>
