@@ -5,7 +5,7 @@ title: How we divested UQAM (or at least took all the credit)
 ---
 One day I was at UQAM with some other Divest McGill organizers answering questions about the history of Divest McGill. Once the interview ended, we asked what was happening at UQAM. The master's student who was interviewing us sighed. Not much was happening at all, it seemed. I mentioned to him that I was studying at UQAM, for some reason. He seemed surprised, as I was the only anglophone there, but pleased. We agreed we'd meet later to see if we wanted to organize a divest movement at UQAM.  
 
-We sit down a few months later only to realize we had very different visions for the campaign. After intense discussion, we make a few dozen hard decisions, ending up with a huge plan, like huge: we’re going to reach out to this group, that group, all the profs, a whole plan about how to build our organizing team, like a logo, a name, a website, a Facebook group. So, we had just finished this big meeting, and somehow it occurs to me to ask:
+We sit down a few months later only to realize we had very different visions for the campaign. After intense discussion, we make a few dozen hard decisions, ending up with a huge plan: we’re going to reach out all the profs and environmental groups on campus, get funding, build our organizing team, a logo, a name, a website, a Facebook group. So, we had just finished this big meeting, and somehow it occurs to me to ask:
 > Have you asked for a meeting with the endowment folks yet?
 
 > Yes, but they never responded.
@@ -22,9 +22,9 @@ We knock on the door. The secretary informs us that, turns out, the director of 
 
 > Us: Sure. Does he have a couple of minutes?
  
-> Secretary, after checking in with him: Yeah, actually.
+> Secretary: Yeah, actually.
  
-The guy is super nice. He used to be an MLA in the Quebec legislature. He tells us he was the minister of transportation for a few years.
+The guy is welcomes us into his office.
  
 > Us: Did you get our email?
  
@@ -54,12 +54,12 @@ At Divest McGill, we had asked the university to agree to divest itself within t
 
 > Us: ... Great!
 
-As we're leaving he he shows us these great caricatures of him in the newspapers from his time as transportation minister. The roads are bad in Quebec, so no big surprise that he had some exposure in the media. 
+As we're leaving he tells us he used to be the minister of transportation and shows us these great caricatures of him in the newspapers from his time as an MLA. The roads are bad in Quebec, so no big surprise that he had some exposure in the media. 
 
-We get out, delighted, until we started thinking about how this might play out in the media: Sun News, Alberta press, and all that. We had a lot of doubts. Talking to the Fondation UQAM guy didn't exactly convince us that they'd really given this much thought. It sounded like their reasoning was that divesting sounded like a vaguely left-wing thing to do, which is precisely what everyone expects of UQAM. 
+We get out, delighted, until we started thinking about how this might play out in the media: Sun News, Alberta press, and all that. We had a lot of doubts. I think divestment is a great idea but it didn't sound like the Fondation UQAM people had given this much thought. Their reasoning seemed to be that divesting sounded like a vaguely left-wing thing to do, so they should because they're UQAM. 
 
-A few weeks later the researcher sends me a link to a Radio-Canada interview where the journalist is grilling this UQAM director like a steak: people still drive cars and how does UQAM dare throw Quebec's natural gas sector under the bus. But to our surprise, the Fondation UQAM director was awesome. All that media experience defending Quebec's roads must have paid off. "At UQAM we are very sensitive to the natural gas sector in Quebec. At the same time, at UQAM we felt we have to be part of building a carbon-neutral future starting right now. We want to invest in a green future." He absolutely nailed it, which was a relief because this was on prime-time television.
+A few weeks later the researcher sends me a link to a Radio-Canada interview where the journalist is grilling this UQAM director like a steak: people still drive cars and how does UQAM dare throw Quebec's natural gas sector under the bus? But to our surprise, the Fondation UQAM director was awesome. All that media experience defending Quebec's roads must have paid off. "At UQAM we are very sensitive to the natural gas sector in Quebec. At the same time, at UQAM we felt we have to be part of building a carbon-neutral future starting right now. We want to invest in a green future." He absolutely nailed it, which was a relief because this was on prime-time television.
 
-So that is the long version of Divest UQAM's short history. All we ever did was ask "did you tell anybody?" And then say please -- quite different from McGill. Otherwise, the only thing we ever did was make extensive plans for nothing then scrap them. 
+So that is the long version of Divest UQAM's short history -- it was quite different from my experience at McGill. All we ever did was ask "did you tell anybody?" And then say please. Otherwise, the only thing Divest UQAM ever did was make extensive plans for nothing then scrap them. 
 
 A few weeks later, me and the other Divest UQAM guy, also named David, had a chance to give each other a high five. Through careful consideration, we determined that we clearly wouldn't have succeeded without our combined years of extensive experience. So, we humbly decided to accord ourselves all the credit for our wild success.
