@@ -17,3 +17,7 @@ layout: default
 2. [Alto](/assets/uploads/If Ye Love Me (Tallis)-Alto.mp3){: target="_blank"}
 3. [Tenor](/assets/uploads/If Ye Love Me (Tallis)-Tenor.mp3){: target="_blank"}
 4. [Bass](/assets/uploads/If Ye Love Me (Tallis)-Bass.mp3){: target="_blank"}
+
+## Hallelujah
+
+[PDF](/assets/uploads/Hallelujah.pdf)
