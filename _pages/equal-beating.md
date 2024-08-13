@@ -25,4 +25,4 @@ Here are all the intervals you heard in the video and other useful links.
 
 ## Examples of music in an equal-beating Victorian temperament
 
-See [Bill Bremmer's webpage](https://www.billbremmer.com/ebvt/){: rel="noopener" target="_blank"} for a number of great recordings.
+See [Bill Bremmer's webpage](https://www.billbremmer.com/ebvt/){: rel="noopener" target="_blank"} for a number of great recordings. He also demonstrates the effect [on his piano](https://www.youtube.com/watch?v=qiCDrkPzCnI){: rel="noopener" target="_blank"}.
