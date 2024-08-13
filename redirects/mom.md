@@ -1,5 +1,5 @@
 ---
-redirect: https://honeymom.summerhays.net/
+redirect: https://mom.summerhays.net/
 layout:     redirect
-permalink: /honeymom
+permalink: /mom
 ---
