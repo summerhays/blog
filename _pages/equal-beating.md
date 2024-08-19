@@ -13,10 +13,12 @@ Here are all the intervals you heard in the video and other useful links.
 * [Perfect octave](/assets/equal-beating/Just Octave.mp3){: target="_blank"}
 * [Perfect 5th](/assets/equal-beating/Just 5th.mp3){: target="_blank"}
 * [Perfect 4th](/assets/equal-beating/Just 4th.mp3){: target="_blank"}
+* [Just major 3rd](/assets/equal-beating/Just 3rd F-A200.mp3){: target="_blank"}
 
 ## 12-tone equal temperament (12TET) intervals
 * [Equal-temperament 5th](/assets/equal-beating/12TET 5th.mp3){: target="_blank"}
 * [Perfect 4th](/assets/equal-beating/12TET 4th.mp3){: target="_blank"}
+* [ET major 3rd](/assets/equal-beating/12TET F-A220.mp3){: target="_blank"}
 
 ## Suspended chords (combining the 4ths and 5ths)
 * [Perfect suspension](/assets/equal-beating/Just suspension w octave.mp3){: target="_blank"}
