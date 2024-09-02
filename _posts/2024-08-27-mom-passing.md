@@ -9,7 +9,9 @@ My mom passed away this past week.
 Doctors suspected she was developing multiple myeloma (MM) back in 2017 and more lately we suspect she also had been developing Lewy-body dementia.
 
 ## Events surrounding her death
-She died in Wyoming, on her way to move to California to be near her grandchildren. She died peacefully, lucidly refusing further care, in the company of her brother, sister, nephew and brother-in-law, and received fabulous help at the hospital. She was having trouble breathing, probably the MM and that was the cause of relatively peaceful death.
+She died in Wyoming, on her way to move to California to be near her grandchildren. Although mom had been sick for years, her death was a surprise for us, and particularly disappointing considering she was thrilled to finally be moving.
+
+She died peacefully, lucidly refusing further care, in the company of her brother, sister, nephew and brother-in-law, and received fabulous help at the hospital. She was having trouble breathing, probably the MM and that was the cause of her relatively peaceful death.
 
 At some point, we'll have a memorial in Chicago. Thanks for all the thoughts and prayers.
 
