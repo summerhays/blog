@@ -7,17 +7,32 @@ layout: default
 <div class="c-hero" style="background: url('{{ firstpost.thumbnail_image }}')bottom center / cover no-repeat; title:'{{ firstpost.thumbnail_alt }}'">
    <h2 class="c-hero__title"><a href="{{ firstpost.url }}">{{ firstpost.title }}</a></h2>
    <small>{{ firstpost.date | date:"%d %b %Y" }} - {{ firstpost.author }}</small>
-   <center><img src="{{ firstpost.thumbnail_image }}" style="width:50%"></center>
+   <center>
+     {% if firstpost.thumbnail_image %} <img src="{{ firstpost.thumbnail_image }}" alt="{{ firstpost.thumbnail_alt }}"style="width:50%">{% endif %}
+   </center>
    {{ firstpost.excerpt }}
    <a href="{{ firstpost.url }}" class="btn--hero">Read the full post</a>
 </div>
 <div>&nbsp;</div>
 
            {% for post in site.posts offset:1 %}
-<div class="c-hero" style="background: url({{ post.thumbnail_image }}) cover no-repeat bottom center ;" title:'{{ firstpost.thumbnail_alt }}'">
-   <h2 class="c-hero__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-   <small>{{ post.date | date:"%d %b %Y" }} - {{ post.author }}</small>
-   <center><img src="{{ post.thumbnail_image }}" style="width:50%"></center>
+<div 
+  class="c-hero" 
+  style="background: url({{ post.thumbnail_image }}) cover no-repeat bottom center ;" 
+  title:'{{ firstpost.thumbnail_alt }}'"
+  >
+   <h2 
+     class="c-hero__title">
+       <a href="{{ post.url }}">
+         {{ post.title }}
+       </a>
+   </h2>
+   <small>
+     {{ post.date | date:"%d %b %Y" }} - {{ post.author }}
+   </small>
+   {% if post.thumbnail_image %} <center>
+     <img src="{{ post.thumbnail_image }}" style="width:50%">
+   </center> {% endif %}
    {{ post.excerpt }}
    <a href="{{ post.url }}" class="btn--hero">Read the full post</a>
 </div>
