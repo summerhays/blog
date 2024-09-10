@@ -15,7 +15,7 @@ She died in Wyoming, on her way to move to California to be near her grandchildr
 
 She died peacefully, lucidly refusing further care, in the company of her brother, sister, nephew and brother-in-law, and received fabulous help at the hospital. She was having trouble breathing, probably the MM and that was the cause of her relatively peaceful death.
 
-At some point, we'll have a memorial in Chicago. Thanks for all the thoughts and prayers.
+At some point, probably in December, we'll have a memorial in Chicago. Thanks for all the thoughts and prayers.
 
 ## Being in touch
 
@@ -23,7 +23,7 @@ When I hear of someone going through a difficult period, what I do -- and I'd 
 
 ## Gifts
 
-Two causes that mom was passionate about were the [Native American Rights Fund](https://narf.org/){: rel="noopener" target="_blank"}, the [American Indian College Fund](https://collegefund.org/){: rel="noopener" target="_blank"}, and [Freegeek](https://www.freegeek.org/){: rel="noopener" target="_blank"}. If there is a Freegeek near you who sells computers rebuilt by volunteers, then please do support it.
+Three causes that mom was passionate about were the [Native American Rights Fund](https://narf.org/){: rel="noopener" target="_blank"}, the [American Indian College Fund](https://collegefund.org/){: rel="noopener" target="_blank"}, and [Freegeek](https://www.freegeek.org/){: rel="noopener" target="_blank"}. If there is a Freegeek near you who sells computers rebuilt by volunteers, then please do support it.
 
 ## For a flavour of mom
 Enjoy the fun [momisms website](https://mom.summerhays.net/){: rel="noopener" target="_blank"}, filled with mom's strange sayings that we kids collected and maintained. If you miss her, you can "[simulate conversation with our mother by hearing a random momism](https://mom.summerhays.net/list){: rel="noopener" target="_blank"}".
