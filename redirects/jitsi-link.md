@@ -1,5 +1,5 @@
 ---
-redirect: /jitsi-link
+permalink: /jitsi-link
 layout:     redirect
-permalink: /jl
+redirect: /jl
 ---
