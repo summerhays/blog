@@ -1,5 +1,5 @@
 ---
-redirect: /jitsi-link
+redirect: /jitsi-admin
 layout:     redirect
 permalink: /jl
 ---
