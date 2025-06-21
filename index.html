@@ -2,7 +2,7 @@
 title: My blog
 layout: default
 ---
-<h1>Latest posts</h1> 
+<h1>Latest posts</h1>
 {% assign firstpost = site.posts.first %}
 <div class="c-hero" style="background: url('{{ firstpost.thumbnail_image }}')bottom center / cover no-repeat; title:'{{ firstpost.thumbnail_alt }}'">
    <h2 class="c-hero__title"><a href="{{ firstpost.url }}">{{ firstpost.title }}</a></h2>
