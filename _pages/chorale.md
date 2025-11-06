@@ -26,3 +26,11 @@ layout: default
 2. [Alto](/assets/chorale/Anges dans nos campagnes ALTO.mp3){: target="_blank"}
 3. [Tenor](/assets/chorale/Anges dans nos campagnes TENOR.mp3){: target="_blank"}
 4. [Bass](/assets/chorale/Anges dans nos campagnes BASS.mp3){: target="_blank"}
+
+## Sainte nuit
+
+* [Enregistrement](/assets/chorale/sainte-nuit ALTO et SOPRANO.mp3){: target="_blank"}
+* [Partition](/assets/chorale/sainte-nuit.pdf){: target="_blank"}
+
+1. [Soprano](/assets/chorale/sainte-nuit ALTO et SOPRANO.mp3){: target="_blank"}
+2. [Alto](/assets/chorale/sainte-nuit ALTO.mp3){: target="_blank"}
