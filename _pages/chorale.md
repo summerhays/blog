@@ -7,17 +7,22 @@ layout: default
 {% endcomment %}
 
 
-## If ye love me
+## Adeste Fideles
 
-* [Enregistrement](https://www.youtube.com/watch?v=Y1WwNSfCom8&pp=ygUNaWYgeWUgbG92ZSBtZQ%3D%3D){: rel="noopener" target="_blank"}
-* Version Musescore, [original](/assets/uploads/If Ye Love Me (Tallis) (sans piano).mscz){: target="_blank"} et en [PDF](/assets/uploads/If Ye Love Me (Tallis) (sans piano).pdf){: target="_blank"}
+* [Enregistrement](/assets/chorale/adeste-fideles TUTTI.mp3){: target="_blank"}
+* [Partition](/assets/chorale/adeste-fideles.pdf){: target="_blank"}
 
+1. [Soprano](/assets/chorale/adeste-fideles TUTTI.mp3){: target="_blank"}
+2. [Alto](/assets/chorale/adeste-fideles ALTO.mp3){: target="_blank"}
+3. [Tenor](/assets/chorale/adeste-fideles TENOR.mp3){: target="_blank"}
+4. [Bass](/assets/chorale/adeste-fideles BASS.mp3){: target="_blank"}
 
-1. [Soprano](/assets/uploads/If Ye Love Me (Tallis)-Soprano.mp3){: target="_blank"}
-2. [Alto](/assets/uploads/If Ye Love Me (Tallis)-Alto.mp3){: target="_blank"}
-3. [Tenor](/assets/uploads/If Ye Love Me (Tallis)-Tenor.mp3){: target="_blank"}
-4. [Bass](/assets/uploads/If Ye Love Me (Tallis)-Bass.mp3){: target="_blank"}
+## Anges dans nos campagnes
 
-## Hallelujah
+* [Enregistrement](/assets/chorale/Anges dans nos campagnes TUTTI.mp3){: target="_blank"}
+* [Partition](/assets/chorale/Anges dans nos campagnes.pdf){: target="_blank"}
 
-[PDF](/assets/uploads/Hallelujah.pdf)
+1. [Soprano](/assets/chorale/Anges dans nos campagnes TUTTI.mp3){: target="_blank"}
+2. [Alto](/assets/chorale/Anges dans nos campagnes ALTO.mp3){: target="_blank"}
+3. [Tenor](/assets/chorale/Anges dans nos campagnes TENOR.mp3){: target="_blank"}
+4. [Bass](/assets/chorale/Anges dans nos campagnes BASS.mp3){: target="_blank"}
