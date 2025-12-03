@@ -2,6 +2,11 @@
 permalink: /chorale/
 layout: default
 ---
+Lyrics in English:
+
+[Let it snow](https://www.altogetherchristmas.com/music/LetItSnow.html){: rel="noopener" target="_blank"}
+[I Saw Mommy Kissing Santa Claus](https://www.azlyrics.com/lyrics/jimmyboyd/isawmommykissingsantaclaus.html){: rel="noopener" target="_blank"}
+
 {% comment %}* This markdown unordered list (```* ```) will be replaced with an automatically generated Table of Contents, excluding any headers above. The line below ```{% raw %}{:toc}{% endraw %}``` indicates that this unordered list will be replace by the ToC
 {:toc}
 {% endcomment %}
