@@ -1,7 +1,7 @@
 ---
 title: Contact
 ---
-You can consult my [University of Ottawa profile](https://uniweb.uottawa.ca/home/4393/profile){: rel="noopener" target="_blank"} or contact me using the form below:
+You can contact me using the form below:
 
 <form action="https://formspree.io/xeqzglgw" method="POST" target="_blank">
       <p><input class="w3-input w3-border w3-animate-input" type="text" style="width:30%" placeholder="Name" required name="Name"></p>
