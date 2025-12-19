@@ -1,5 +1,5 @@
 ---
-redirect: https://honeymom.summerhays.net/
+redirect: https://honeymom.summerhays.me/
 layout:     redirect
 permalink: /honeymom
 ---

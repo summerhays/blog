@@ -1,5 +1,5 @@
 ---
-redirect: https://accord.summerhays.net/home
+redirect: https://accord.summerhays.me/home
 layout:     redirect
 permalink: /tune
 ---

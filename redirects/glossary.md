@@ -1,5 +1,5 @@
 ---
-redirect: https://glossary.summerhays.net/en/home
+redirect: https://glossary.summerhays.me/en/home
 layout:     redirect
 permalink: /glossary
 ---

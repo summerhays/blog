@@ -1,5 +1,5 @@
 ---
-redirect: https://blank.summerhays.net/
+redirect: https://blank.summerhays.me/
 layout:     redirect
 permalink: /blank
 ---

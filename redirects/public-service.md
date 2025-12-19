@@ -1,5 +1,5 @@
 ---
-redirect: https://public-service.summerhays.net/
+redirect: https://public-service.summerhays.me/
 layout:     redirect
 permalink: /public-service
 ---

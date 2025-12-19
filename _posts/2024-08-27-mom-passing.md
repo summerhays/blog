@@ -3,7 +3,7 @@ title: "Mom's passing"
 lang: en
 tags: mom personal
 ---
-![Goose treasure](https://mom.summerhays.net/assets/images/goose8.avif){:style="width: 25%;"}
+![Goose treasure](/assets/images/goose8.avif){:style="width: 25%;"}
 
 My mom passed away this past week.
 

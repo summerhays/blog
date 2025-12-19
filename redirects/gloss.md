@@ -1,5 +1,5 @@
 ---
-redirect: https://glossary.summerhays.net/
+redirect: https://glossary.summerhays.me/
 layout:     redirect
 permalink: /gloss
 ---

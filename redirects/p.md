@@ -1,5 +1,5 @@
 ---
-redirect: https://piano.summerhays.net/
+redirect: https://piano.summerhays.me/
 layout:     redirect
 permalink: /p
 ---
