@@ -96,4 +96,4 @@ This table gives a probability that a statistic is less than Z (i.e. between neg
 |-----|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |  z  | +0.00   | +0.01   | +0.02   | +0.03   | +0.04   | +0.05   | +0.06   | +0.07   | +0.08   | +0.09   |
 
-Here is a [z-score table to the mean](/z-score-to-mean).
+Here is a [z-score table to the mean](/z-score-to-mean) and a [t Table](/t-table).

@@ -1,5 +1,5 @@
 ---
-redirect: https://accord.summerhays.me/home
+redirect: /t-table
 layout:     redirect
 permalink: /t
 ---
