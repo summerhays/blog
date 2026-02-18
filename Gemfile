@@ -5,8 +5,9 @@ source "https://rubygems.org"
 gem "jekyll"
 # gem "github-pages"
 gem 'jekyll-paginate'
-# gem 'webrick'
+gem 'webrick'
 gem 'jemoji'
+gem "jekyll-theme-hacker"
 # gem 'kramdown-parser-gfm'
 
 # gem "rails"
