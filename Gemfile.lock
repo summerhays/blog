@@ -63,6 +63,11 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
+    jekyll-theme-hacker (0.2.0)
+      jekyll (> 3.5, < 5.0)
+      jekyll-seo-tag (~> 2.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.13.0)
@@ -126,6 +131,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-paginate
+  jekyll-theme-hacker
   jemoji
   webrick
 
@@ -153,6 +159,8 @@ CHECKSUMS
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-paginate (1.1.0) sha256=880aadf4b02529a93541d508c5cbb744f014cbfc071d0263a31f25ec9066eb64
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
+  jekyll-seo-tag (2.8.0) sha256=3f2ed1916d56f14ebfa38e24acde9b7c946df70cb183af2cb5f0598f21ae6818
+  jekyll-theme-hacker (0.2.0) sha256=816bf9f992ded0b1e1e69d8dece2574e8480efb5e9f84a2e1ac83bd717b8f78a
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   jemoji (0.13.0) sha256=5d4c3e8e2cbbb2b73997c31294f6f70c94e4d4fade039373e86835bcf5529e7c
   json (2.18.1) sha256=fe112755501b8d0466b5ada6cf50c8c3f41e897fa128ac5d263ec09eedc9f986

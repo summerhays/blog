@@ -13,6 +13,7 @@ year: 2021
 emoji_dir: ./images/emoji
 show_downloads: false
 include: ['_pages']
+exclude: ['vendor']
 defaults:
   - scope: 
       path: "_pages" # an empty string here means all files in the project
