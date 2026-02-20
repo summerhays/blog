@@ -1,5 +1,5 @@
 ---
-redirect: https://mom.summerhays.me/
+redirect: https://mom.summerhays.net/
 layout:     redirect
 permalink: /m
 ---
