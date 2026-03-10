@@ -1,7 +1,7 @@
 ---
 title: Z-table to the mean
 ---
-# Cumulative (mean to Z)
+# Cumulative from mean (0 to Z)
 
 This table gives a probability that a statistic is between Z and the mean.
 
@@ -60,3 +60,5 @@ This table gives a probability that a statistic is between Z and the mean.
 | z   | .00    | .01    | .02    | .03    | .04    | .05    | .06    | .07    | .08    | .09    |
 
 Here is a [cumulative z-score table](/z-score) and a [t Table](/t-table).
+
+You may also download a [PDF version of this table](/assets/PDF/z-table-to-mean.pdf), made in typst.
